@@ -1,4 +1,4 @@
-# Restaurant Reservation
+# Boom Reservation
 
   ## Description
 
